@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Console Tricks!</title>
-  <link rel="icon" href="https://fav.farm/✅" />
+  <link rel="icon" href="https://fav.farm/🔥" />
 </head>
-<body>
 
+<body>
+  <p><em>Psst: have a look at the JavaScript Console</em> 💁</p>
   <p onClick="makeGreen()">×BREAK×DOWN×</p>
 
   <script>
@@ -25,31 +27,25 @@
     console.log('Hello I am a %s string!', '💩');
 
     // Styled
-    // console.log('%c I am some great text', 'font-size:50px; background:red; text-shadow: 10px 10px 0 blue')
-
+    // console.log('%c I am some great text', "font-size: 25px; background: pink; text-shadow: 5px 5px 0 purple; color: violet")
     // warning!
-    console.warn('OH NOOO');
-
+    console.warn("wow")
     // Error :|
-    console.error('Shit!');
-
+    console.error("This is an error")
     // Info
-    console.info('Crocodiles eat 3-4 people per year');
-
+    console.info("Crocodiles eat 3-4 people per year")
     // Testing
+    console.assert(1 === 1, "that is wrong");
+    console.assert(1 === 0, "That is wrong");
     const p = document.querySelector('p');
 
     console.assert(p.classList.contains('ouch'), 'That is wrong!');
-
     // clearing
-    console.clear();
-
+    // console.clear();
     // Viewing DOM Elements
     console.log(p);
     console.dir(p);
-
-    console.clear();
-
+    // console.clear();
     // Grouping together
     dogs.forEach(dog => {
       console.groupCollapsed(`${dog.name}`);
@@ -58,21 +54,19 @@
       console.log(`${dog.name} is ${dog.age * 7} dog years old`);
       console.groupEnd(`${dog.name}`);
     });
-
-    // counting
-
-    console.count('Wes');
-    console.count('Wes');
-    console.count('Steve');
-    console.count('Steve');
-    console.count('Wes');
-    console.count('Steve');
-    console.count('Wes');
-    console.count('Steve');
-    console.count('Steve');
-    console.count('Steve');
-    console.count('Steve');
-    console.count('Steve');
+    // counting my cats names
+    console.count('Lucy');
+    console.count('Lucy');
+    console.count('Puma');
+    console.count('Puma');
+    console.count('Lucy');
+    console.count('Puma');
+    console.count('Lucy');
+    console.count('Puma');
+    console.count('Puma');
+    console.count('Puma');
+    console.count('Puma');
+    console.count('Puma');
 
     // timing
     console.time('fetching data');
@@ -80,11 +74,12 @@
       .then(data => data.json())
       .then(data => {
         console.timeEnd('fetching data');
-        console.log(data);
+        // console.log(data);
       });
 
+    //table
     console.table(dogs);
-
   </script>
 </body>
+
 </html>
