@@ -6,7 +6,7 @@
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 ## Portfolio
-[portfolio](https://meganm672.github.io/JavaScript30/)
+[Megan Murphy-Marxens Portfolio](https://meganm672.github.io/JavaScript30/)
 ## Projects 
 
 * Day1:
