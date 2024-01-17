@@ -18,6 +18,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 * Day7: [Array Cardio 2](https://meganm672.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/)
 * Day8: [HTML Canvas](https://meganm672.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/) Click on the mouse to draw!
 * Day9: [Dev Tools Domination](https://github.com/meganm672/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination)
+* Day10: [Hold Shift and Check Checkboxes](https://github.com/meganm672/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html)
 
 #### Portfoloio Template From 
 
