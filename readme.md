@@ -22,6 +22,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 * Day11: [Custom Video Player](https://meganm672.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/index.html)
 * Day12: [Key Sequence Detection](https://meganm672.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/index.html)
 * Day13: [Slide in on Scroll](https://meganm672.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/index.html)
+* Day 14: [JS Refrences VS Copying](https://meganm672.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/index.html)
 
 #### Portfoloio Template From 
 
