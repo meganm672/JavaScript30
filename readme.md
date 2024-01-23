@@ -24,6 +24,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 * Day13: [Slide in on Scroll](https://meganm672.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/index.html)
 * Day14: [JS Refrences VS Copying](https://meganm672.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/index.html)
 * Day15: [LocalStorage and Event Delegation](https://meganm672.github.io/JavaScript30/15%20-%20LocalStorage/index.html)
+* Day16: [Mouse Move Shadow](https://meganm672.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/index.html)
 
 #### Portfoloio Template From 
 
