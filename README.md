@@ -27,7 +27,9 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 * Day16: [Mouse Move Shadow](https://meganm672.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/index.html)
 * Day17: [Sort Without Articles](https://meganm672.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/index.html)
 * Day18: [Adding Up Times with Reduce](https://meganm672.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/index.html)
-* Day19: [Webcam Fun](https://meganm672.github.io/JavaScript30/19%20-%20Webcam%20Fun/index.html) click on polaroid to download your pick!
+* Day19: [Webcam Fun](https://meganm672.github.io/JavaScript30/19%20-%20Webcam%20Fun/index.html) click on polaroid to download your pic!
+* Day20: [Native Speech Recognition](https://meganm672.github.io/JavaScript30/20%20-%20Speech%20Detection/index.html)
+
 #### Portfoloio Template From 
 
 [Kat Mohd](https://github.com/katmohd/JavaScript30/blob/main/README.md)
