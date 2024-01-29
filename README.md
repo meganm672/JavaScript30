@@ -30,6 +30,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 * Day19: [Webcam Fun](https://meganm672.github.io/JavaScript30/19%20-%20Webcam%20Fun/index.html) click on polaroid to download your pic!
 * Day20: [Native Speech Recognition](https://meganm672.github.io/JavaScript30/20%20-%20Speech%20Detection/index.html) turn on your mic and speak!
 * Day21: [Geolocation](https://meganm672.github.io/JavaScript30/21%20-%20Geolocation/index.html)
+* Day22: [Follow Along Link Highlighter](https://meganm672.github.io/JavaScript30/22%20-%20Follow%20Along%20Link%20Highlighter/index.html)
 
 #### Portfoloio Template From 
 
