@@ -41,13 +41,13 @@ h1 {
   width: calc(100% + 4rem);
   margin: -2rem 0 2rem -2rem;
   padding: .5rem;
-  background: #ffc600;
-  border-bottom: 5px solid #F3C010;
+  background: #00ddff;
+  border-bottom: 5px solid #10b6f3;
   text-align: center;
   font-size: 5rem;
   font-weight: 100;
   font-family: 'Pacifico', cursive;
-  text-shadow: 3px 3px 0 #F3C010;
+  text-shadow: 3px 3px 0 #10aff3;
 }
 
 .voiceinator input,
@@ -60,7 +60,7 @@ h1 {
   padding: 10px;
   border: 0;
   font-size: 2rem;
-  background: #F7F7F7;
+  background: #f7f7f7;
   outline: 0;
 }
 
@@ -69,14 +69,14 @@ textarea {
 }
 
 .voiceinator button {
-  background: #ffc600;
+  background: #00ccff;
   border: 0;
   width: 49%;
   float: left;
   font-family: 'Pacifico', cursive;
   margin-bottom: 0;
   font-size: 2rem;
-  border-bottom: 5px solid #F3C010;
+  border-bottom: 5px solid #10aff3;
   cursor: pointer;
   position: relative;
 }
