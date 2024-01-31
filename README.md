@@ -32,6 +32,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 * Day21: [Geolocation](https://meganm672.github.io/JavaScript30/21%20-%20Geolocation/index.html)
 * Day22: [Follow Along Link Highlighter](https://meganm672.github.io/JavaScript30/22%20-%20Follow%20Along%20Link%20Highlighter/index.html)
 * Day23: [Speech Synthesis](https://meganm672.github.io/JavaScript30/23%20-%20Speech%20Synthesis/index.html)
+* Day24: [Sticky Nav](https://meganm672.github.io/JavaScript30/24%20-%20Sticky%20Nav/index.html)
 
 #### Portfoloio Template From 
 
