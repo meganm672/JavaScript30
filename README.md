@@ -34,6 +34,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 * Day23: [Speech Synthesis](https://meganm672.github.io/JavaScript30/23%20-%20Speech%20Synthesis/index.html)
 * Day24: [Sticky Nav](https://meganm672.github.io/JavaScript30/24%20-%20Sticky%20Nav/index.html)
 * Day25: [Event Capture, Propgation, Bubblind and Once](https://meganm672.github.io/JavaScript30/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/index.html)
+* Day26: [Follow Along Stripe Nav](https://meganm672.github.io/JavaScript30/26%20-%20Stripe%20Follow%20Along%20Nav/index.html)
 
 #### Portfoloio Template From 
 
