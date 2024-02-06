@@ -4,7 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #4C4C4C url('https://unsplash.it/1500/900?image=1021');
+  background: #4C4C4C url('https://fastly.picsum.photos/id/1040/1500/900.jpg?hmac=ieeLFf9grrnQOP3wPF7JhokZWzW41ertSHi3HwIlc6U');
   background-size: cover;
   font-family: sans-serif;
 }

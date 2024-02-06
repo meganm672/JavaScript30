@@ -36,6 +36,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 * Day25: [Event Capture, Propgation, Bubblind and Once](https://meganm672.github.io/JavaScript30/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/index.html)
 * Day26: [Follow Along Stripe Nav](https://meganm672.github.io/JavaScript30/26%20-%20Stripe%20Follow%20Along%20Nav/index.html)
 * Day27: [Click and Drag](https://meganm672.github.io/JavaScript30/27%20-%20Click%20and%20Drag/index.html)
+* Day28: [Video Speed Controller](https://meganm672.github.io/JavaScript30/28%20-%20Video%20Speed%20Controller/index.html)
 
 #### Portfoloio Template From 
 
