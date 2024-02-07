@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   font-size: 10px;
   background: #8E24AA;
-  background: linear-gradient(45deg,  #42a5f5 0%,#478ed1 50%,#0d47a1 100%);
+  background: linear-gradient(45deg,  #246da9 0%,#1d568b 50%,#236ddc 100%);
 }
 
 *, *:before, *:after {
@@ -19,7 +19,7 @@ body {
   font-weight: 100;
   font-size: 20rem;
   margin: 0;
-  color: white;
+  color: rgb(20, 185, 11);
   text-shadow: 4px 4px 0 rgba(0,0,0,0.05);
 }
 
@@ -52,7 +52,7 @@ body {
   background: none;
   border: 0;
   cursor: pointer;
-  color: white;
+  color: rgba(118, 248, 12, 0.959);
   font-size: 2rem;
   text-transform: uppercase;
   background: rgba(0,0,0,0.1);
@@ -78,5 +78,5 @@ body {
 
 .display__end-time {
   font-size: 4rem;
-  color: white;
+  color: rgb(109, 242, 76);
 }
