@@ -38,6 +38,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 * Day27: [Click and Drag](https://meganm672.github.io/JavaScript30/27%20-%20Click%20and%20Drag/index.html)
 * Day28: [Video Speed Controller](https://meganm672.github.io/JavaScript30/28%20-%20Video%20Speed%20Controller/index.html)
 * Day29: [Countdown Timer](https://meganm672.github.io/JavaScript30/29%20-%20Countdown%20Timer/index.html)
+* Day30: [Whack A Mole](https://meganm672.github.io/JavaScript30/30%20-%20Whack%20A%20Mole/index.html)
 #### Portfoloio Template From 
 
 [Kat Mohd](https://github.com/katmohd/JavaScript30/blob/main/README.md)
